@@ -1,5 +1,5 @@
-# Localization and Internationalization Testing: A Systematic Mapping Study
-Replication package of 'Localization and Internationalization Testing: A Systematic Mapping Study'
+# A Systematic Mapping Study on Localization and Internationalization Testing
+Replication package of 'A Systematic Mapping Study on Localization and Internationalization Testing'
 
 ## Replication package content
 
