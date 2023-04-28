@@ -1,5 +1,5 @@
-# A Systematic Mapping Study on Localization and Internationalization Testing
-Replication package of 'A Systematic Mapping Study on Localization and Internationalization Testing'
+# A Systematic Mapping Study on Localization (l10n) and Internationalization (i18n) Testing
+Replication package of 'A Systematic Mapping Study on Localization (l10n) and Internationalization (i18n) Testing'
 
 ## Replication package content
 
