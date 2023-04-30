@@ -5,7 +5,7 @@ Replication package of 'A Systematic Mapping Study on Localization (l10n) and In
 
 + [Review Protocol](https://docs.google.com/document/d/1wyZzQzoDhS87XBOjg2bWp_KFU5pth4tY_Ybb5q87G5c/edit?usp=sharing): the systematic mapping study guide, it describes the steps from the application of the search string to the final data extraction from the selected articles.
 
-+ Spreadsheets
++ [Spreadsheets](https://docs.google.com/spreadsheets/d/1kiWgM6CHXKyRUKW68nt8CfAoArjB4YxdDWootaOgi6o/edit?usp=sharing)
 
   - Search result
   - Include/exclude decision based on the title and the abstract
