@@ -1,5 +1,5 @@
-# A Systematic Mapping Study on Localization (l10n) and Internationalization (i18n) Testing
-Replication package of 'A Systematic Mapping Study on Localization (l10n) and Internationalization (i18n) Testing'
+# A Systematic Mapping Study on Localization (L10n) and Internationalization (i18n) Testing
+Replication package of 'A Systematic Mapping Study on Localization (L10n) and Internationalization (i18n) Testing'
 
 ## Replication package content
 
@@ -23,15 +23,32 @@ Replication package of 'A Systematic Mapping Study on Localization (l10n) and In
    - Organization and country
    - Does the paper present a Localization/Internationalization testing strategy?
    - What are the challenges related to internationalization and localization testing
-   - What are the testing strategies for l10n e i18n?
+   - What are the testing strategies for L10n e i18n?
    - Which phase does the testing occur?
    - Were the results compared with other localization/Internationalization testing strategies? If yes, how did the proposed approach/tool performed?
-   - What is the tool support for i18n/l10n testing?
-   - Is there any distinction between the i18n and l10n  testing techniques according to the context?(games, mobile, web)? What?
-   - What is the type of software device tested under i18n and l10n strategies?
-   - What programming languages/frameworks are most used to run i18n and l10n testing?
+   - What is the tool support for i18n/L10n testing?
+   - Is there any distinction between the i18n and L10n  testing techniques according to the context?(games, mobile, web)? What?
+   - What is the type of software device tested under i18n and L10n strategies?
+   - What programming languages/frameworks are most used to run i18n and L10n testing?
    - What is planned as future work?
    - Other relevant information.
 
 
 + [Synthesis](https://docs.google.com/spreadsheets/d/1kGZ7hOzBhMpJVh-pmyWX9eqOM3RF2LJIlkqU5q8MAY4/edit?usp=sharing): Spreadsheet containing all the relevant information.
+
+# L10N-TRAINER - Empirical experiment design
+Replication package of the empirical experiment realized to evaluate the tool effectiveness in the training of novice i18n/L10n testers.
+
+## Replication package content
+
++ [Experiment design](https://docs.google.com/spreadsheets/d/1VW5Di4ebms4bBy78yWRk1dFRjY34rEkrw4zrwGw3xLw/edit?usp=sharing): the designed experimental plan, it describes the goals, participants, material and tasks, procedures, data collection and threats to validity.
+  
++ Documents
+
+  - Consent form
+    - [pt-BR version](https://docs.google.com/document/d/1pnj-uCKTNl1ndjyciSV3mzMMdSZ0MtktJOM2afV2QoY/edit?usp=sharing)
+    - [en-US version](https://docs.google.com/document/d/1hdM_ckGln8hLvnyK3DhK4P0_SFakvIt8v5YW9ZNjIB0/edit?usp=sharing)
+  - Forms
+    - [Recruitment form](https://drive.google.com/file/d/1MGMkA9DWOFHoeJAfxuZr-RuVBUPYuhlm/view?usp=sharing)
+    - [Qualitative evaluation form](https://drive.google.com/file/d/1IINJPi7ox13b4yhrE_CN_VxUxz6oea9D/view?usp=sharing)
+      
