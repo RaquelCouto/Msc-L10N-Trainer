@@ -48,6 +48,8 @@ Replication package of the empirical experiment realized to evaluate the tool ef
   - Consent form
     - [pt-BR version](https://docs.google.com/document/d/1pnj-uCKTNl1ndjyciSV3mzMMdSZ0MtktJOM2afV2QoY/edit?usp=sharing)
     - [en-US version](https://docs.google.com/document/d/1hdM_ckGln8hLvnyK3DhK4P0_SFakvIt8v5YW9ZNjIB0/edit?usp=sharing)
+  - Presentation used to introduce i18n/L10n testing
+    - [Presentaion Localization and Internationalization](https://docs.google.com/presentation/d/1CsmCVrxePM2i6kD37US-dYc2QauX6oGsfqO2aHC6RmI/edit?usp=sharing)
   - Forms
     - [Recruitment form](https://drive.google.com/file/d/1MGMkA9DWOFHoeJAfxuZr-RuVBUPYuhlm/view?usp=sharing)
     - [Qualitative evaluation form](https://drive.google.com/file/d/1IINJPi7ox13b4yhrE_CN_VxUxz6oea9D/view?usp=sharing)
